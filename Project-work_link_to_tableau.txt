@@ -1,2 +1,5 @@
-Please click [here](https://public.tableau.com/app/profile/pooja.motekar/viz/Comparison-of-Region-Based-on-Sales/Dashboard3#1)
+<html>
+<body>
 <a href="https://public.tableau.com/app/profile/pooja.motekar/viz/Comparison-of-Region-Based-on-Sales/Dashboard3" class="details-link" title="Github Repo" target="_blank" rel="noopener"><i class="bx bx-link"></i></a>
+</body>
+</html>
