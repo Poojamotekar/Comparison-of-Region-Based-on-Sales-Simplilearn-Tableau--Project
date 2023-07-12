@@ -1,5 +1,7 @@
 <html>
 <body>
+<div>
 <a href="https://public.tableau.com/app/profile/pooja.motekar/viz/Comparison-of-Region-Based-on-Sales/Dashboard3" class="details-link" title="Github Repo" target="_blank" rel="noopener"><i class="bx bx-link"></i></a>
+</div>
 </body>
 </html>
